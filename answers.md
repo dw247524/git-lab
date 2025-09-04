@@ -7,8 +7,6 @@ Answer 6: answer.md has also been added to the staging section
 Answer 7: modified: answers.md
 Answer 8: Author: dw247524 <dw247524@ohio.edu> Date: Tue Sep 2 17:49:03 2025 Initial commit
 answer 9: modified: answers.md
-
-
 Answer 10: No changes were made locally
 Answer 11: error: failed to push some refs to 'https://github.com/dw247524/git-lab.git'
 Answer 12: The local changes were made this time
